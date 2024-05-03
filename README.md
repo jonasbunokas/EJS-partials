@@ -1,0 +1,2 @@
+# EJS-partials
+EJS partials
